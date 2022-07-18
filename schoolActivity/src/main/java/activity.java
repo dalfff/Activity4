@@ -14,6 +14,8 @@ public class activity {
         System.out.println("Address : ");
         String add = sc.nextLine();
 
+        System.out.println("");
+        System.out.println("------------------------------------------------------------------------");
         System.out.println("Name : " + fname + lname);
         System.out.println("Address : " + add);
         
